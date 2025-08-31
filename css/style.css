@@ -38,6 +38,11 @@ a {
   color: #2e2f42; 
   }
 
+.header-menu-link:hover,
+.header-menu-link:focus {
+   color: #404bbf; 
+}
+
 .contacts {
   font-style: normal;
 }
@@ -49,8 +54,6 @@ a {
   color: #434455;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus,
 .header-contacts-link:hover,
 .header-contacts-link:focus {
   color: #404bbf;
@@ -113,6 +116,9 @@ background-color: #fff;
 background-color: #f4f4fd;
 }
 
+.team-list {
+background-color: #fff;
+}
 .team-title {
   font-size: 36px;
   line-height: 1.11;

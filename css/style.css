@@ -39,6 +39,10 @@ a {
   text-decoration: none;
   color: #434455;
 }
+.header-menu-link {
+  color: #2e2f42;
+  text-decoration: none;
+}
 
 .header-menu-link:hover,
 .header-menu-link:focus,
